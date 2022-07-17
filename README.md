@@ -1,2 +1,24 @@
-# Early-Detection-of-Collective-or-Individual-Theft-Attempts-Us-ing-Long-term-Recurrent-Convolutional-
-I designed an intelligent system capable of analyzing movement within the videos and detecting suspicious movement that precedes the occurrence of shoplifting crimes. The proposed system can analyze the movement into two primary classifications: the natural movement, and the suspicious movement (with the percentage of each of them being determined.” Thus, the system appears, depending on the percentage of the type of movement, whether the possibility of theft is high or low, or the Confusion movement, which are branched cases depending on the percentage percent accuracy of smart model classification"). The system is integrated with surveillance camera systems that are placed in stores, and the system can at that time alert security personnel in cases where the movement of people in the monitored area appears to be suspicious. The system can also help in cases where it is required to search within a large number of video clips recorded by the surveillance cameras to determine the time moments before the theft crimes. The compressed file contains several video clips on which the system has been tested (the system is waiting for 160 frames to pass, “that is, approximately 3 seconds on average, depending on the frequency of the frames within the video clips or the live broadcast”). I sent you a detailed study of how the system works, and if you like the system and find that it can complement your software systems, I will send you the code and the smart trained model.
+# Early Detection of Collective or Individual Theft Attempts Using Long-term Recurrent Convolutional
+I designed an intelligent system capable of analyzing movement within the videos and detecting suspicious movement that precedes the occurrence of shoplifting crimes. The proposed system can analyze the movement into two primary classifications: the natural movement, and the suspicious movement (with the percentage of each of them being determined.” Thus, the system appears, depending on the percentage of the type of movement, whether the possibility of theft is high or low, or the Confusion movement, which are branched cases depending on the percentage percent accuracy of smart model classification"). 
+The system is integrated with surveillance camera systems that are placed in stores, and the system can at that time alert security personnel in cases where the movement of people in the monitored area appears to be suspicious. The system can also help in cases where it is required to search within a large number of video clips recorded by the surveillance cameras to determine the time moments before the theft crimes. 
+The repository contains several video clips on which the system has been tested (the system is waiting for 160 frames to pass, “that is, approximately 3 seconds on average, depending on the frequency of the frames within the video clips or the live broadcast”). I sent you a detailed study of how the system works, and if you like the system and find that it can complement your software systems, I will send you the code and the smart trained model.
+# Example:
+
+## Example 1:
+https://user-images.githubusercontent.com/108609519/179400921-b9e943cc-a825-4cc3-ad47-0264b634af23.mp4
+
+## Example 2:
+https://user-images.githubusercontent.com/108609519/179400997-2efbb888-48c4-4036-8cbd-e3a216f6713d.mp4
+
+## Example 3:
+https://user-images.githubusercontent.com/108609519/179401017-94ef2915-0c90-48a7-968f-a43e40a0b9f5.mp4
+
+## Example 4:
+https://user-images.githubusercontent.com/108609519/179401036-4c447f8c-6069-404f-b5a5-5ebf96d9a33c.mp4
+
+## Example 5:
+https://user-images.githubusercontent.com/108609519/179401334-f3c1281d-1ee3-4c61-9596-dca83dffb7e7.mp4
+
+## Example 6:
+https://user-images.githubusercontent.com/108609519/179401359-31d673e5-54cf-4516-aa30-ddb63c7de6a1.mp4
+
