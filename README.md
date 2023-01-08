@@ -10,7 +10,6 @@ The repository contains several video clips on which the system has been tested 
 
 https://user-images.githubusercontent.com/108609519/211195538-d27ed6bf-a0d3-477c-83bb-d62bcf233b32.mp4
 
-https://user-images.githubusercontent.com/108609519/211195545-e2620620-45b6-4d55-bd0e-7b96bd9b501b.mp4
 
 I have published a study of how the system works, and if you like the system and find that it can complement your software systems, I will send you the code and the smart trained model.
 
